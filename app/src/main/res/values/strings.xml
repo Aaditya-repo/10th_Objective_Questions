@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">10th Objective Questions</string>
+    <string name="download">Download</string>
+    <string name="aaaa">Please wait...</string>
+    <string name="share">Share</string>
+    <string name="rate_us">Rate Us</string>
+    <string name="privacy_policy">Privacy Policy</string>
+    <string name="more">More</string>
+    <string name="bseb_target">BSEB Target</string>
+    <string name="skip">skip</string>
+    <string name="update_now">Update</string>
+</resources>

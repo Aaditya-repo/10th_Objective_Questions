@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="sd">
+
+        <attr name="backgroundColor" format="color"/>
+        <attr name="textColor" format="color"/>
+        <attr name="menu_text" format="color"/>
+        <attr name="menu_back" format="color"/>
+
+
+    </declare-styleable>
+
+</resources>
